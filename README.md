@@ -126,7 +126,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/langchain/1C1C1C" height="30" alt="langchain logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/qdrant/FF4C00" height="30" alt="qdrant logo"  />
+  <img src="https://avatars.githubusercontent.com/u/73504361?v=4" height="30" alt="qdrant logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="python ml logo"  />
   <img width="12" />
