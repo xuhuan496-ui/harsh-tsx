@@ -27,6 +27,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
 
 ###
@@ -113,6 +115,28 @@
 
 ###
 
+<p align="left">AI / ML Tools</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/openai/412991" height="30" alt="openai logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/googlegemini/4285F4" height="30" alt="gemini logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/langchain/1C1C1C" height="30" alt="langchain logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/qdrant/FF4C00" height="30" alt="qdrant logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="python ml logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="30" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="30" alt="pandas logo"  />
+</div>
+
+###
+
 <p align="left">Software</p>
 
 ###
@@ -134,5 +158,3 @@
 <br clear="both">
 
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-
-###
